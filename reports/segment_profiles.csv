@@ -1,0 +1,5 @@
+Cluster,segment_name,customer_count,recency_mean,recency_median,frequency_mean,frequency_median,monetary_mean,monetary_median
+0,Recent Lower-Frequency Purchasers,3022,43.74586366644606,33.0,3.6350099272005294,3.0,1262.6622577763071,788.115
+1,Recent Extreme-Frequency Purchasers,11,4.818181818181818,2.0,89.18181818181819,68.0,89881.98909090909,87835.7
+2,Inactive Lower-Frequency Purchasers,1064,248.27255639097746,243.0,1.5479323308270676,1.0,448.8361945488722,302.64
+3,Recent Higher-Frequency Purchasers,209,12.373205741626794,5.0,21.84688995215311,18.0,10328.69076555024,7277.7

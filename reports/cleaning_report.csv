@@ -1,0 +1,9 @@
+stage,rule,rows_removed,rows_remaining
+input,raw dataset,0,541909
+cleaning,cancellations,9288,532621
+cleaning,invalid quantities,1336,531285
+cleaning,missing customer identifiers,133361,397924
+cleaning,exact duplicates,5192,392732
+cleaning,invalid dates or prices,40,392692
+cleaning,outliers,3660,389032
+output,clean transactions,0,389032
